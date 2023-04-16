@@ -1,0 +1,14 @@
+# node modules will be installed afterwards
+node_modules
+
+# serverless stuff
+.serverless
+
+# environment variables
+.env
+
+# git
+.git
+
+# elastic beanstalk is not needed for this app to run
+.elasticbeanstalk
